@@ -1,4 +1,4 @@
-#ifnded PORT_CFG_H
+#ifndef PORT_CFG_H
 #define PORT_CFG_H
 
 /*Configure the MCU pins direction , options :  1- INPUT
